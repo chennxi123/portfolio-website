@@ -234,7 +234,7 @@
 .hero{
   width: 100%;
 
-  background-color: #DFFF00;
+  background-color: #33ffe0;
 
   transition: 0.5s ease-in-out;
 }
@@ -367,7 +367,7 @@
 .skills{
   width: 100%;
 
-  background-color: #DFFF00;
+  background-color: #33FFE0;
 
   transition: 0.5s ease-in-out;
 }
@@ -600,7 +600,7 @@
 .contact{
   width: 100%;
 
-  background-color: #DFFF00;
+  background-color: #33FFE0;
 
   transition: 0.5s ease-in-out;
 }
